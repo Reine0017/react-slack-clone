@@ -1,3 +1,5 @@
+This project is referenced from Reed Barger's https://github.com/reedbarger/react-slack-clone
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
