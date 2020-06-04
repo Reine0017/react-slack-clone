@@ -11,6 +11,7 @@
     "md5": "^2.2.1",
     "mime-types": "^2.1.27",
     "moment": "^2.26.0",
+    "natives": "^1.1.6",
     "react": "^16.13.1",
     "react-avatar-editor": "^11.0.9",
     "react-color": "^2.18.1",
